@@ -261,8 +261,9 @@ files.download(model_path)
 
 ```
 ## Output
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="763" height="455" alt="image" src="https://github.com/user-attachments/assets/151aad5d-0271-4904-965d-7b912f07a676" />
+<img width="16" height="132" alt="image" src="https://github.com/user-attachments/assets/0afff8e1-c5ae-4760-9ae6-acbd6ea3aa65" />
+
 ## Execution
 Open the notebook:
 notebooks/cat_dog_panda_transfer_learning.ipynb
